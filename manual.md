@@ -4,7 +4,6 @@
 
 Welcome to Techrity Mentorship Program. Here’s a quick guide to help you make the best of this opportunity.
 
-
 ## Why Techrity?
 People want to build their tech skills but are faced with three major challenges:
 - Talent Development: Kickstart (Laptop, Data, & Mentorship)
@@ -24,7 +23,7 @@ Here are the core values we live by. We’ll discuss these in more detail as the
 - **Pay it Forward:** After receiving guidance from our mentors, we encourage you to also remain in the community and mentor other.
 
 
-## ur Learning Method
+## Our Learning Method
 
 Welcome to something different. Learning is best when it’s immersive and engaging. It’s a combination of some theory and a big focus on personal engagement and practical applications every step of the way.
 
